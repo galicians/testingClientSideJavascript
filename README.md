@@ -35,7 +35,7 @@ Start the Protractor test runner using the e2e configuration:
 
 ```
 npm run protractor
-
+```
 
 
 ## Development with protractor and karma
