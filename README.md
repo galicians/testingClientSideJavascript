@@ -111,7 +111,7 @@ Requires a webserver that serves the application. See Running the app during dev
 
 ###Selenium
 
-As mentioned on the selenium [website]: http://www.seleniumhq.org/ , Selenium automates browsers. That’s it.
+As mentioned on the selenium [website](http://www.seleniumhq.org/), Selenium automates browsers. That’s it.
 
 This having support for almost all major browsers, is a very good alternative to automate our tests in the browser. So whatever you do in the browser while testing your application, like navigating to pages, clicking a button, writing text in input boxes, submitting forms etc, can be automated using Selenium.
 
@@ -130,30 +130,25 @@ In BDD tests are usually called specs.
 
 ## More resources:
 
-For more information on the components used:
-Protractor is a wrapper around WebDriverJS.
+For more information on the tools-concepts used:
 
-[how-protractor-works]: https://github.com/angular/protractor/blob/master/docs/infrastructure.md
-[locators]: https://github.com/angular/protractor/blob/master/docs/locators.md
-[page-objects]: https://code.google.com/p/selenium/wiki/PageObjects
-[protractor-non-angular-sites]: http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/
-[angular-seed]: https://github.com/angular/angular-seed
-[DI]: http://docs.angularjs.org/guide/di
-[protractor]: https://github.com/angular/protractor
-[jasmine]: http://pivotal.github.com/jasmine/
-[karma]: http://karma-runner.github.io
-[grunt-protractor]: http://programmerbuddy.blogspot.co.uk/2014/03/full-automation-of-protractor-e2e-tests.html
-[HTML-DOM-Object]: http://www.w3schools.com/jsref/dom_obj_all.asp
-[JsonWireProtocol]: https://code.google.com/p/selenium/wiki/JsonWireProtocol
-[jquery-API]: http://api.jquery.com/
-[unit-test-DOM-manipulation]: http://stackoverflow.com/questions/16163852/how-to-unit-test-dom-manipulation-with-jasmine
-[jasmine-jquery]: https://github.com/velesin/jasmine-jquery
-[qunit-vs-jasmine-vs-mocha]: http://www.techtalkdc.com/which-javascript-test-library-should-you-use-qunit-vs-jasmine-vs-mocha/
-[phantom.js]: http://phantomjs.org/headless-testing.html
-
-Other testing frameworks:
-
-[webdriver]: http://webdriver.io/api.html
-[casper]: http://casperjs.org/
+[how-protractor-works](https://github.com/angular/protractor/blob/master/docs/infrastructure.md)
+[locators](https://github.com/angular/protractor/blob/master/docs/locators.md)
+[page-objects](https://code.google.com/p/selenium/wiki/PageObjects
+[protractor-non-angular-sites](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
+[angular-seed](https://github.com/angular/angular-seed)
+[protractor](https://github.com/angular/protractor)
+[jasmine](http://pivotal.github.com/jasmine/)
+[karma](http://karma-runner.github.io)
+[grunt-protractor](http://programmerbuddy.blogspot.co.uk/2014/03/full-automation-of-protractor-e2e-tests.html)
+[HTML-DOM-Object](http://www.w3schools.com/jsref/dom_obj_all.asp)
+[JsonWireProtocol](https://code.google.com/p/selenium/wiki/JsonWireProtocol)
+[jquery-API](http://api.jquery.com/)
+[unit-test-DOM-manipulation](http://stackoverflow.com/questions/16163852/how-to-unit-test-dom-manipulation-with-jasmine)
+[jasmine-jquery](https://github.com/velesin/jasmine-jquery)
+[qunit-vs-jasmine-vs-mocha](http://www.techtalkdc.com/which-javascript-test-library-should-you-use-qunit-vs-jasmine-vs-mocha/)
+[phantom.js](http://phantomjs.org/headless-testing.html)
+[webdriver](http://webdriver.io/api.html)
+[casper](http://casperjs.org/)
 
 
